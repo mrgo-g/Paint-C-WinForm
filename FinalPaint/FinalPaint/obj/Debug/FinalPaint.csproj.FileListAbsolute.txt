@@ -1,0 +1,11 @@
+C:\Users\MADxMARKS\source\repos\FinalPaint\FinalPaint\bin\Debug\FinalPaint.exe.config
+C:\Users\MADxMARKS\source\repos\FinalPaint\FinalPaint\bin\Debug\FinalPaint.exe
+C:\Users\MADxMARKS\source\repos\FinalPaint\FinalPaint\bin\Debug\FinalPaint.pdb
+C:\Users\MADxMARKS\source\repos\FinalPaint\FinalPaint\obj\Debug\FinalPaint.csprojAssemblyReference.cache
+C:\Users\MADxMARKS\source\repos\FinalPaint\FinalPaint\obj\Debug\FinalPaint.Form1.resources
+C:\Users\MADxMARKS\source\repos\FinalPaint\FinalPaint\obj\Debug\FinalPaint.Properties.Resources.resources
+C:\Users\MADxMARKS\source\repos\FinalPaint\FinalPaint\obj\Debug\FinalPaint.csproj.GenerateResource.cache
+C:\Users\MADxMARKS\source\repos\FinalPaint\FinalPaint\obj\Debug\FinalPaint.csproj.CoreCompileInputs.cache
+C:\Users\MADxMARKS\source\repos\FinalPaint\FinalPaint\obj\Debug\FinalPaint.exe
+C:\Users\MADxMARKS\source\repos\FinalPaint\FinalPaint\obj\Debug\FinalPaint.pdb
+C:\Users\MADxMARKS\source\repos\FinalPaint\FinalPaint\obj\Debug\FinalPaint.AboutBox1.resources
